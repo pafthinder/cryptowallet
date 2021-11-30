@@ -1,5 +1,6 @@
-CRYPTOTRACKER 
+# CRYPTOTRACKER 
+## simplest tool for managing crypto assets ; OOP practice 
 
-[] architecture 
+- [ ] github setup 
+- [ ] architecture discussed 
 
-prosty tool do zarządzania krypto portfolio 
